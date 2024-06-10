@@ -1,1 +1,1 @@
-# CourseWork
+# Course Work
